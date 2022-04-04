@@ -201,14 +201,6 @@
   position: absolute;
 }
 .contact-icon11 {
-  top: 0px;
-  fill: #000000;
-  left: 0px;
-  width: var(--dl-size-size-medium);
-  height: var(--dl-size-size-medium);
-  position: absolute;
-}
-.contact-icon13 {
   top: 1px;
   fill: #0e76a8 ;
   left: 150px;
@@ -217,7 +209,7 @@
   position: absolute;
   text-decoration: none;
 }
-.contact-icon15 {
+.contact-icon13 {
   top: 0px;
   fill: #DB4437;
   left: 300px;
@@ -226,12 +218,18 @@
   position: absolute;
   text-decoration: none;
 }
-.contact-icon17 {
+.contact-icon15 {
   top: 0px;
   left: 450px;
   width: var(--dl-size-size-medium);
   height: var(--dl-size-size-medium);
   position: absolute;
+  text-decoration: none;
+}
+.contact-icon17 {
+  width: var(--dl-size-size-medium);
+  height: var(--dl-size-size-medium);
+  text-decoration: none;
 }
 .contact-text2 {
   top: 300px;
