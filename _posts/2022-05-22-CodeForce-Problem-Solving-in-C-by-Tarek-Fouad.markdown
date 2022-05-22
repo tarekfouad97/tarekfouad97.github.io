@@ -1,16 +1,16 @@
 ---
-title: "CodeForce Problem Solving in C By Tarek Fouad"
+title: ":ramen: Indigo, minimalist jekyll theme"
 layout: post
-date: 2022-05-22 22:10
-tag: ProblemSolve
+date: 2016-01-23 22:10
+tag: jekyll
 image: https://sergiokopplin.github.io/indigo/assets/images/jekyll-logo-light-solid.png
 headerImage: true
-projects: true
-hidden: false
-description: "CodeForce Problem Solving in C by Tarek Fouad"
+projects: false
+hidden: false 
+description: "This is a simple and minimalist template for Jekyll for those who likes to eat noodles."
 category: project
-author: Tarek
-externalLink: true
+author: johndoe
+externalLink: false
 ---
 #Test
 [GitHub Repo](https://github.com/tarekfouad97/CodeForce-Problem-Solving)
