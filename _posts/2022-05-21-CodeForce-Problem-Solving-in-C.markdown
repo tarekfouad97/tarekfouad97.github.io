@@ -10,7 +10,7 @@ hidden: false
 description: "CodeForce Problem Solving in C by Tarek Fouad"
 category: project
 author: Tarek
-externalLink: false
+externalLink: true
 
 ---
 [GitHub Repo](https://github.com/tarekfouad97/CodeForce-Problem-Solving)
