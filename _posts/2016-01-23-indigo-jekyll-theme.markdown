@@ -5,10 +5,10 @@ date: 2016-01-23 22:10
 tag: jekyll
 image: https://sergiokopplin.github.io/indigo/assets/images/jekyll-logo-light-solid.png
 headerImage: true
-projects: true
+projects: false
 hidden: true 
 description: "This is a simple and minimalist template for Jekyll for those who likes to eat noodles."
-category: project
+category: 
 author: johndoe
 externalLink: false
 ---
