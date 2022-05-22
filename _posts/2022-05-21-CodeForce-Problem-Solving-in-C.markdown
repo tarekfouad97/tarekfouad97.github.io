@@ -9,9 +9,10 @@ projects: true
 hidden: true # don't count this post in blog pagination
 description: "CodeForce Problem Solving in C"
 category: project
-author: Tarek Fouad
+author: Tarek
 externalLink: false
 
 ---
-
+[GitHub Repo] (https://github.com/tarekfouad97/CodeForce-Problem-Solving)
+---
 <div class="repo-card" data-repo="tarekfouad97/CodeForce-Problem-Solving"></div>
