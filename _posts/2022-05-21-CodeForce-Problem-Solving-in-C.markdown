@@ -11,7 +11,8 @@ description: "CodeForce Problem Solving in C"
 category: project
 author: Tarek Fouad
 externalLink: false
----
 <script src="https://tarptaeya.github.io/repo-card/repo-card.js"></script>
+
+---
 
 <div class="repo-card" data-repo="tarekfouad97/CodeForce-Problem-Solving"></div>
