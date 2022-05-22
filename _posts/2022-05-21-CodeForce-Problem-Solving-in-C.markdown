@@ -9,7 +9,7 @@ projects: true
 hidden: false
 description: "CodeForce Problem Solving in C by Tarek Fouad"
 category: project
-author: Tarek
+author: johndoe
 externalLink: true
 ---
 #Test
