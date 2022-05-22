@@ -13,7 +13,14 @@ author: Tarek
 externalLink: false
 
 ---
-
+[GitHub Repo](https://github.com/tarekfouad97/CodeForce-Problem-Solving)
 ---
-[GitHub Repo] (https://github.com/tarekfouad97/CodeForce-Problem-Solving)
+| NAME | LINK | CODE |
+|:----:|:----:|:----:|
+|Anton and Danik| [Here]()|[Here]()|
+|Bear and Big Brother|[Here]()|[Here]()|
+|Team|[Here]()|[Here]()|
+|Beautiful Matrix|[Here]()|[Here]()|
+|Gravity Flip|[Here]()|[Here]()|
+|Petya and Strings|[Here]()|[Here]()|
 
