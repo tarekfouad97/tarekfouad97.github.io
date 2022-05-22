@@ -2,7 +2,7 @@
 title: "CodeForce Problem Solving in C"
 layout: post
 date: 2022-05-21 22:10
-tag: Problem Solving
+tag: Problem-Solving
 image: 
 headerImage: false
 projects: true
@@ -12,6 +12,7 @@ category: project
 author: Tarek
 externalLink: true
 ---
+
 [GitHub Repo](https://github.com/tarekfouad97/CodeForce-Problem-Solving)
 ---
 | NAME | LINK | CODE |
