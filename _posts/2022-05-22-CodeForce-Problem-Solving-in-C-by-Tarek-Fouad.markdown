@@ -1,5 +1,5 @@
 ---
-title: "CodeForce Problem Solving in C"
+title: "CodeForce Problem Solving in C By Tarek Fouad"
 layout: post
 date: 2022-05-22 22:10
 tag: ProblemSolve
