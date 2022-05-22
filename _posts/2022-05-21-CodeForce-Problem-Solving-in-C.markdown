@@ -12,3 +12,4 @@ category: project
 author: Tarek Fouad
 externalLink: false
 ---
+<div class="repo-card" data-repo="tarekfouad97/CodeForce-Problem-Solving"></div>
