@@ -12,17 +12,4 @@ category: blog
 author: johndoe
 externalLink: false
 ---
-#Test
-[GitHub Repo](https://github.com/tarekfouad97/CodeForce-Problem-Solving)
----
-##Test Test
-| NAME | LINK | CODE |
-|:----:|:----:|:----:|
-|Anton and Danik| [Here]()|[Here]()|
-|Bear and Big Brother|[Here]()|[Here]()|
-|Team|[Here]()|[Here]()|
-|Beautiful Matrix|[Here]()|[Here]()|
-|Gravity Flip|[Here]()|[Here]()|
-|Petya and Strings|[Here]()|[Here]()|
 
----
