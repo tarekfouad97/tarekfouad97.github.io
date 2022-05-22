@@ -7,7 +7,7 @@ image:
 headerImage: false
 projects: true
 hidden: false
-description: "CodeForce Problem Solving in C"
+description: "CodeForce Problem Solving in C by Tarek Fouad"
 category: project
 author: Tarek
 externalLink: false
