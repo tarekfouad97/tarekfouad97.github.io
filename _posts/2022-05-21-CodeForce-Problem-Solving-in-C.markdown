@@ -3,8 +3,8 @@ title: "CodeForce Problem Solving in C"
 layout: post
 date: 2022-05-21 22:10
 tag: ProblemSolve
-image: 
-headerImage: false
+image: https://sergiokopplin.github.io/indigo/assets/images/jekyll-logo-light-solid.png
+headerImage: true
 projects: true
 hidden: false
 description: "CodeForce Problem Solving in C by Tarek Fouad"
