@@ -1,7 +1,7 @@
 ---
-title: "CodeForce Problem Solving in C"
+title: "CodeForce Problem Solving in C Level "A""
 layout: post
-date: 2016-01-23 22:10
+date: 2022-01-5 22:10
 tag: problem-solving
 image: 
 headerImage: true
@@ -12,4 +12,76 @@ category: project
 author: tarek
 externalLink: false
 ---
+
+[GitHub Repository](https://github.com/tarekfouad97/CodeForce-Problem-Solving)
+{
+    #include <stdio.h>
+
+    int main()
+    {
+        int n;
+        int a_counter = 0;
+        int d_counter = 0;
+        char result;
+        scanf("%d", &n);
+
+        for (int i = 0; i != n; i++)
+        {
+            scanf("%c", &result);
+            if (result == 'A')
+            {
+                a_counter++;
+            }
+            else if (result == 'D')
+            {
+                d_counter++;
+            }
+        }
+
+        if (a_counter < d_counter)
+        {
+            printf("Danik");
+        }
+        else if (a_counter > d_counter)
+        {
+            printf("Anton");
+        }
+        else if (a_counter == d_counter)
+        {
+            printf("Friendship");
+        }
+        return 0;
+        
+    }
+}
+---
+
+[Anton and Danik](https://codeforces.com/contest/734/problem/A)   
+
+---
+[Bear and Big Brother](codeforces.com\contest\791\problem\A)    
+
+---
+[Team](https://codeforces.com/contest/231/problem/A)      
+
+---
+[Beautiful Matrix](https://codeforces.com/contest/263/problem/A)  
+
+---
+[Gravity Flip](https://codeforces.com/contest/405/problem/A)     
+
+---
+[Petya and Strings](https://codeforces.com/contest/112/problem/A)  
+
+---
+[Boy or Girl](https://codeforces.com/contest/236/problem/A)  
+
+---
+[Word]()    
+
+---
+[Magnets]() 
+
+---
+[Sereja and Dima]()    
 
