@@ -1,15 +1,15 @@
 ---
-title: ":ramen: Indigo, minimalist jekyll theme"
+title: "CodeForce Problem Solving in C"
 layout: post
 date: 2016-01-23 22:10
-tag: jekyll
-image: https://sergiokopplin.github.io/indigo/assets/images/jekyll-logo-light-solid.png
+tag: problem-solving
+image: 
 headerImage: true
-projects: false
+projects: true
 hidden: false 
-description: "This is a simple and minimalist template for Jekyll for those who likes to eat noodles."
-category: blog
-author: johndoe
+description: ""
+category: project
+author: tarek
 externalLink: false
 ---
 
