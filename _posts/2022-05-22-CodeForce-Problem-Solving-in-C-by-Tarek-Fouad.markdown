@@ -14,46 +14,7 @@ externalLink: false
 ---
 
 [GitHub Repository](https://github.com/tarekfouad97/CodeForce-Problem-Solving)
-{
-    #include <stdio.h>
 
-    int main()
-    {
-        int n;
-        int a_counter = 0;
-        int d_counter = 0;
-        char result;
-        scanf("%d", &n);
-
-        for (int i = 0; i != n; i++)
-        {
-            scanf("%c", &result);
-            if (result == 'A')
-            {
-                a_counter++;
-            }
-            else if (result == 'D')
-            {
-                d_counter++;
-            }
-        }
-
-        if (a_counter < d_counter)
-        {
-            printf("Danik");
-        }
-        else if (a_counter > d_counter)
-        {
-            printf("Anton");
-        }
-        else if (a_counter == d_counter)
-        {
-            printf("Friendship");
-        }
-        return 0;
-        
-    }
-}
 ---
 
 [Anton and Danik](https://codeforces.com/contest/734/problem/A)   
@@ -85,3 +46,4 @@ externalLink: false
 ---
 [Sereja and Dima]()    
 
+---
