@@ -18,6 +18,8 @@ externalLink: false
 ---
 
 [Anton and Danik](https://codeforces.com/contest/734/problem/A)   
+{% highlight raw %} { % gist tarekfouad97/20f04f045246f66fd3399d0606c2ab30 % } {% endhighlight %}
+
 
 ---
 [Bear and Big Brother](codeforces.com\contest\791\problem\A)    
