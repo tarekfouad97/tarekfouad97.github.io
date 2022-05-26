@@ -1,5 +1,5 @@
 ---
-title: "CodeForce Problem Solving in C Level "A""
+title: "CodeForce Problem Solving in C"
 layout: post
 date: 2022-01-5 22:10
 tag: problem-solving
@@ -11,7 +11,6 @@ description: ""
 category: project
 author: tarek
 externalLink: false
-
 ---
 
 [GitHub Repository](https://github.com/tarekfouad97/CodeForce-Problem-Solving)
