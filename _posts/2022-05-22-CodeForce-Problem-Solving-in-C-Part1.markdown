@@ -19,7 +19,7 @@ externalLink: false
 
 [Anton and Danik](https://codeforces.com/contest/734/problem/A)   
 
-{% highlight raw %} { % gist tarekfouad97/20f04f045246f66fd3399d0606c2ab30 % } {% endhighlight %}
+{ % gist tarekfouad97/20f04f045246f66fd3399d0606c2ab30 % }
 
 
 ---
