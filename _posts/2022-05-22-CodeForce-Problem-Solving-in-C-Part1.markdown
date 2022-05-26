@@ -18,7 +18,7 @@ externalLink: false
 ---
 
 [Anton and Danik](https://codeforces.com/contest/734/problem/A)   
-{% highlight %}
+{% highlight column %}
 #include <stdio.h>
 
 int main()
