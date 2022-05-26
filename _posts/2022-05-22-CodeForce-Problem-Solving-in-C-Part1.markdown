@@ -1,5 +1,5 @@
 ---
-title: "CodeForce Problem Solving in C"
+title: ":page_with_curl: CodeForce Problem Solving in C Part 1"
 layout: post
 date: 2022-01-5 22:10
 tag: problem-solving
