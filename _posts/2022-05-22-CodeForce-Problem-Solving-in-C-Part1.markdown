@@ -60,7 +60,7 @@ int main()
 {% endhighlight %}
 ---
 [Bear and Big Brother](codeforces.com\contest\791\problem\A)    
-{% highlight html %}
+{% highlight column %}
 #include <stdio.h>
 
 int main()
@@ -87,7 +87,7 @@ int main()
 {% endhighlight %}
 ---
 [Team](https://codeforces.com/contest/231/problem/A)      
-{% highlight html %}
+{% highlight column %}
 #include <stdio.h>
 
 int main()
@@ -115,7 +115,7 @@ int main()
 
 ---
 [Beautiful Matrix](https://codeforces.com/contest/263/problem/A)  
-{% highlight html %}
+{% highlight column %}
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -163,12 +163,12 @@ int main()
 {% endhighlight %}
 ---
 [Gravity Flip](https://codeforces.com/contest/405/problem/A)     
-{% highlight html %}
+{% highlight column %}
 
 {% endhighlight %}
 ---
 [Petya and Strings](https://codeforces.com/contest/112/problem/A)  
-{% highlight html %}
+{% highlight column %}
 #include <stdio.h>
 #include <string.h>
 int main()
@@ -215,7 +215,7 @@ int main()
 {% endhighlight %}
 ---
 [Boy or Girl](https://codeforces.com/contest/236/problem/A)  
-{% highlight html %}
+{% highlight column %}
 #include <stdio.h>
 #include <string.h>
 
@@ -263,17 +263,17 @@ int main()
 {% endhighlight %}
 ---
 [Word]()    
-{% highlight html %}
+{% highlight column %}
 
 {% endhighlight %}
 ---
 [Magnets]() 
-{% highlight html %}
+{% highlight column %}
 
 {% endhighlight %}
 ---
 [Sereja and Dima]()    
-{% highlight html %}
+{% highlight column %}
 
 {% endhighlight %}
 ---
