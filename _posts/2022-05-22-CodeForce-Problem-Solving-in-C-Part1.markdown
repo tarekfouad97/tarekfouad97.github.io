@@ -9,7 +9,7 @@ projects: true
 hidden: false 
 description: ""
 category: project
-author: tarek
+author: johndoe
 externalLink: false
 ---
 
