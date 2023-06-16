@@ -2,13 +2,13 @@
 title: "C++ Object-Oriented Programming: Class Constructors"
 layout: post
 date: 2023-06-16 22:10
-tag: embedded
+tag: cpp
 image: "https://fossa.com/blog/content/images/size/w600h300/2022/03/CC--.png"
 headerImage: true
-projects: true
+projects: false
 hidden: false 
 description: ""
-category: Cpp
+category: blog
 author: Tarek
 externalLink: false
 ---
