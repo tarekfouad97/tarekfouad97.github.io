@@ -9,7 +9,7 @@ projects: false
 hidden: false 
 description: ""
 category: blog
-author: Tarek
+author: johndoe
 externalLink: false
 ---
 # C++ Object-Oriented Programming: Class Constructors
